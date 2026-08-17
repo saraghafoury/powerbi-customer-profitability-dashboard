@@ -1,0 +1,6 @@
+# Ignore all datasets
+data/
+
+# Ignore Excel temporary files
+~$*.xlsx
+~$*.xls
